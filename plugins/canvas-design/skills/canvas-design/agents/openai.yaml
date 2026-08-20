@@ -1,0 +1,13 @@
+interface:
+  display_name: Canvas Design
+  short_description: Create polished static visual designs
+  default_prompt: Use @canvas-design to create a polished static poster from my brief.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
