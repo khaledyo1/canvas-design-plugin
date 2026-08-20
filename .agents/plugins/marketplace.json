@@ -1,0 +1,20 @@
+{
+  "name": "khaled-design-plugins",
+  "interface": {
+    "displayName": "Khaled Design Plugins"
+  },
+  "plugins": [
+    {
+      "name": "canvas-design",
+      "source": {
+        "source": "local",
+        "path": "./plugins/canvas-design"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
