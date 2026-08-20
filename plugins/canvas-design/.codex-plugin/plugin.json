@@ -1,0 +1,42 @@
+{
+  "name": "canvas-design",
+  "version": "1.0.0",
+  "description": "Create and refine polished static visual designs with exact typography, logo preservation, Arabic and RTL support, responsive sizing, and export-ready PNG or PDF workflows.",
+  "author": {
+    "name": "Eng. Khaled Alimawi",
+    "url": "https://github.com/khaledyo1"
+  },
+  "homepage": "https://github.com/khaledyo1/canvas-design-plugin",
+  "repository": "https://github.com/khaledyo1/canvas-design-plugin",
+  "license": "Apache-2.0",
+  "keywords": [
+    "design",
+    "poster",
+    "social-media",
+    "arabic",
+    "rtl",
+    "png",
+    "pdf"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Canvas Design",
+    "shortDescription": "Create polished static visual designs",
+    "longDescription": "Create posters, social-media graphics, advertisements, covers, flyers, and editorial artwork with accurate typography, protected brand assets, Arabic and RTL composition, responsive variants, and render verification.",
+    "developerName": "Eng. Khaled Alimawi",
+    "category": "Productivity",
+    "capabilities": [
+      "Generate and edit static visual designs",
+      "Compose accurate Arabic and RTL typography",
+      "Preserve supplied logos and brand assets",
+      "Deliver verified PNG and PDF outputs"
+    ],
+    "defaultPrompt": [
+      "Create a polished Instagram poster from my brief.",
+      "Refine this static design without changing its brand identity."
+    ],
+    "brandColor": "#0B1B3A",
+    "composerIcon": "./assets/icon.svg",
+    "logo": "./assets/icon.svg"
+  }
+}
